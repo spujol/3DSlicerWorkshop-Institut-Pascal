@@ -1,5 +1,5 @@
 # 3DSlicerWorkshop-Institut-Pascal
-The 3D Slicer Training Workshop at the Institut Pascal aims at introducing clinicians and scientists of the Clermont Auvergne University to the 3D Slicer platform for translational research in medical image computing and image-guided therapy.
+The 3D Slicer Training Workshop at the Institut Pascal aims at introducing clinical researchers and engineers of the Clermont Auvergne University to the 3D Slicer platform for translational research in medical image computing and image-guided therapy. The workshop combines lectures and hands-on sessions using pre-computed datasets.
 
 ## Course Instructor
 Sonia Pujol, PhD, Director of 3D Slicer Training and Education
@@ -17,15 +17,21 @@ Sonia Pujol, PhD, Director of 3D Slicer Training and Education
 - 15:15-15:45: Slicer@IGCNC
 - 15:45-16:00: Discussion and Concluding Remarks
 
-## Software
+## Workshop Registration
+To register to the event, please fill in the [Slicer@IGCNC Registration Form](https://forms.gle/whudQWaGw98EaXE3A) 
+
+## Workshop Materials
+Participants are required to install the workshop materials prior to the event.  
+
+### Software
 [Slicer 4.10.2 Stable Release Version rev. 28257](https://download.slicer.org/)
 
-## Tutorial Datasets
+### Tutorial Datasets
 [Dataset #1: 3D Visualization DICOM](https://www.dropbox.com/s/pwalbzpc9k25t7d/3DVisualization_DICOM.zip?dl=0)
 
 [Dataset #2: Segmentation](https://www.dropbox.com/s/hdlduw6oqnf2n72/Meningioma.nrrd?dl=0)
 
 [Dataset #3: Brain Mapping](https://www.dropbox.com/s/xyux3pjbzvmibog/WhiteMatterExplorationData.zip?dl=0)
 
-## Workshop Registration
-To register to the event, please fill in the [Slicer@IGCNC Registration Form](https://forms.gle/whudQWaGw98EaXE3A) 
+## Contact
+For questions related to the event, please send an e-mail to spujol at bwh.harvard.edu
