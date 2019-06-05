@@ -1,8 +1,8 @@
 # 3DSlicerWorkshop-Institut-Pascal
-The 3D Slicer Training Workshop at the Institut Pascal aims at introducing clinical researchers and engineers of the Clermont Auvergne University to the 3D Slicer platform for translational research in medical image computing and image-guided therapy. The workshop combines lectures and hands-on sessions using pre-computed datasets.
+The 3D Slicer Training Workshop at the Institut Pascal aims at introducing clinical researchers and engineers of the Clermont Auvergne University community to the 3D Slicer platform for translational research in medical image computing and image-guided therapy. The workshop includes lectures and hands-on sessions using pre-computed datasets.
 
 ## Course Instructor
-Sonia Pujol, PhD, Director of 3D Slicer Training and Education
+Sonia Pujol, PhD, Director of 3D Slicer Training & Education
 
 ## Workshop Agenda
 - 9:00:9:15: Opening Remarks 
