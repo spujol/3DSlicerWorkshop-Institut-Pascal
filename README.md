@@ -26,10 +26,9 @@ Participants are required to install the workshop materials prior to the event.
 ### Software
 [Slicer 4.10.2 Stable Release Version rev. 28257](https://download.slicer.org/)
 
-### Tutorial Datasets
-[Dataset #1: 3D Visualization DICOM](https://www.dropbox.com/s/pwalbzpc9k25t7d/3DVisualization_DICOM.zip?dl=0)
+### Tutorial Dataset
 
-[Dataset #2: Segmentation](https://www.dropbox.com/s/hdlduw6oqnf2n72/Meningioma.nrrd?dl=0)
+[Dataset #1: Diffusion MRI dataset]
 
 [Dataset #3: Brain Mapping](https://www.dropbox.com/s/xyux3pjbzvmibog/WhiteMatterExplorationData.zip?dl=0)
 
